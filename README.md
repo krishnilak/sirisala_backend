@@ -1,6 +1,18 @@
 # sirisala_backend
 
 
+-------------------------------------
+START
+-------------------------------------
+
+npm init
+npm install cors mysql express --save
+node start server.js
+
+
+-------------------------------------
+SQL SCRIPTS 
+-------------------------------------
 
 drop database sirisala;
 
